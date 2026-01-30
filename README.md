@@ -6,4 +6,4 @@ I'm passionate about designing solutions through tech, especially pertaining to 
 
 When I'm not programming, you can find me playing video games, exploring coffee shops, or journaling. 
 
-You can find me on [Linkedin](https://www.linkedin.com/in/alice-park-seoyoung/) here. Looking forward to building more projects!
+You can find me on [LinkedIn](https://www.linkedin.com/in/alice-park-seoyoung/) here. Looking forward to building more projects!
