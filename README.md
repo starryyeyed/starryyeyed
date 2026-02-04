@@ -6,4 +6,4 @@ I'm passionate about innovating and designing solutions through tech, especially
 
 When I'm not programming, you can catch me playing video games, exploring coffee shops, journaling, or obsessively tracking every aspect of my life.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/alice-park-seoyoung/) here, and [Devpost](https://devpost.com/apalicepark) here. Looking forward to building more projects!
+You can find me on [LinkedIn](https://www.linkedin.com/in/alice-park-seoyoung/) and [Devpost](https://devpost.com/apalicepark) here. Looking forward to building more projects!
