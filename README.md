@@ -1,9 +1,7 @@
 ### Hi! I'm Alice :)
 
-I'm currently an Undergraduate Data Science student at UC San Diego, minoring in Business Analytics + Design.
+I'm currently an Undergraduate student at UC San Diego, studying Mathematics-Computer Science & Data Science. Trying to build more projects...
 
-I'm passionate about innovating and designing solutions through tech, especially pertaining to topics that are personal to me such as mental health. I have a few projects in the works such as an AI model for CBT + ADHD-friendly productivity extensions/webapps that I'm super excited to continue to work on throughout this year!
-
-When I'm not programming, you can catch me playing video games, exploring coffee shops, journaling, or obsessively tracking every aspect of my life.
+In my free time, I like to play video games, explore coffee shops, journal, and track everything and anything.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/alice-park-seoyoung/) and [Devpost](https://devpost.com/apalicepark) here. Looking forward to building more projects!
